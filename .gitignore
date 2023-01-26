@@ -1,0 +1,4 @@
+.git/
+.idea/
+SimpleIMClient.iml
+target/
